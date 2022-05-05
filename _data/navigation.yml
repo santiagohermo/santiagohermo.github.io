@@ -2,6 +2,8 @@
 main:
   - title: "Research"
     url: /research/
+  - title: "Software and Data"
+    url: /software_data/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

@@ -59,7 +59,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -108,9 +108,23 @@ author:
   bio              : "PhD Candidate, Brown University"
   location         : "Providence, RI, USA"
   email            : santiago_hermo@brown.edu
-  googlescholar    : "https://scholar.google.com/citations?user=waFDvfMAAAAJ&hl=en"
   github           : santiagohermo
-
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://santiagohermo.github.io"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:santiago_hermo@brown.edu"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/santiagohermo"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/santiagohermo"
+    - label: "Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=waFDvfMAAAAJ&hl=en"
 
 # Reading Files
 include:

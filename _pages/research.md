@@ -14,7 +14,8 @@ permalink: /research/
 
 *Draft available upon request. Public draft coming soon.*
 
-
+<br>
+<br>
 
 
 ## Publications
@@ -27,8 +28,7 @@ permalink: /research/
 (joint with Miika Päällysaho, David Seim, and Jesse M. Shapiro)
 *Quarterly Journal of Economics, forthcoming.*
 
-[Article](https://doi.org/10.1093/qje/qjac022) | [Preprint](https://scholar.harvard.edu/files/shapiro/files/skills.pdf)
+Article: [DOI](https://doi.org/10.1093/qje/qjac022), [Preprint](https://scholar.harvard.edu/files/shapiro/files/skills.pdf)
 
 Press: [Guardian](https://www.theguardian.com/commentisfree/2021/aug/29/iqs-are-on-the-rise-but-we-dont-need-hard-facts-any-more)
-
 

@@ -78,7 +78,7 @@ author:
   avatar   : "images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   location : "Providence (RI)"
   bio      : 
-    PhD Candidate
+    PhD Candidate,
     Brown University
   links:
     - label: "Website"

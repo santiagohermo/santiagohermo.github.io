@@ -5,8 +5,8 @@ permalink: /research/
 
 ## Working papers
 
-<figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/min_wage_rent/residence_workplace_MW.png" alt="">
+<figure style="width: 175px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/papers/min_wage_rent/residence_workplace_MW.png" alt="">
 </figure> 
 
 **Minimum Wage as a Place-Based Policy: Evidence from US Housing Rental Markets**
@@ -15,8 +15,8 @@ permalink: /research/
 
 ## Publications
 
-<figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/Skills/decomp_logic.jpg" alt="">
+<figure style="width: 175px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/papers/Skills/decomp_logic.jpg" alt="">
 </figure> 
 
 **Labor market returns and the evolution of cognitive skills: Theory and evidence**

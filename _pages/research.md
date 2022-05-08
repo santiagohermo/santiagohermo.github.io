@@ -5,14 +5,21 @@ permalink: /research/
 
 ## Working papers
 
-<figure style="width: 200px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/papers/min_wage_rent/residence_workplace_MW.png" alt="">
-</figure> 
+<table style="width:100%">
+  <tr>
+    <td>
+    <figure style="width: 200px" class="align-left">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/papers/min_wage_rent/residence_workplace_MW.png" alt="">
+    </figure>
+    <td>
+    <td>
+    **Minimum Wage as a Place-Based Policy: Evidence from US Housing Rental Markets** (joint with Gabriele Borg and Diego Gentile Passaro).
 
-**Minimum Wage as a Place-Based Policy: Evidence from US Housing Rental Markets**
-(joint with Gabriele Borg and Diego Gentile Passaro)
+    *Draft available upon request. Public draft coming soon.*
+    </td>
+  </tr>
+</table>
 
-*Draft available upon request. Public draft coming soon.*
 
 <br>
 <br>

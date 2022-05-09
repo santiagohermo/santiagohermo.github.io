@@ -5,7 +5,7 @@ permalink: /research/
 
 ## Working papers
 
-<figure style="width: 200px" class="align-left">
+<figure style="width: 220px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/papers/min_wage_rent/residence_workplace_MW.png" alt="">
 </figure> 
 
@@ -41,7 +41,7 @@ permalink: /research/
 
 ## Publications
 
-<figure style="width: 200px" class="align-left">
+<figure style="width: 220px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/papers/Skills/decomp_logic.png" alt="">
 </figure> 
 

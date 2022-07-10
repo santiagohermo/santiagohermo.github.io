@@ -3,6 +3,7 @@ title: Research
 permalink: /research/
 author_profile: FALSE
 classes: wide
+layout: single
 ---
 
 ## Working papers

@@ -78,8 +78,7 @@ author:
   avatar   : "images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   location : "Providence (RI)"
   bio      : 
-    PhD Candidate,
-    Brown University
+    Economics PhD candidate at Brown University | UCEMA '17 UBA '15
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

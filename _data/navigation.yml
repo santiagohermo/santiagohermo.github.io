@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Curriculum Vitae"
+    url: /curriculum/
   - title: "Research"
     url: /research/
   - title: "Software and Data"

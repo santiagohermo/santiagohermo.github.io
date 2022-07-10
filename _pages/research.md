@@ -51,8 +51,6 @@ author_profile: TRUE
 *Quarterly Journal of Economics, forthcoming.*
 
 Paper: [DOI](https://doi.org/10.1093/qje/qjac022), [Preprint](https://scholar.harvard.edu/files/shapiro/files/skills.pdf)
-
 Data: [Harvard Dataverse](https://doi.org/10.7910/DVN/KP9RZX)
-
-Press: [VoxEU article](https://voxeu.org/article/economic-incentives-and-cognitive-skill), [Guardian](https://www.theguardian.com/commentisfree/2021/aug/29/iqs-are-on-the-rise-but-we-dont-need-hard-facts-any-more)
+Press: [VoxEU article](https://voxeu.org/article/economic-incentives-and-cognitive-skill), [Guardian](https://www.theguardian.com/commentisfree/2021/aug/29/iqs-are-on-the-rise-but-we-dont-need-hard-facts-any-more), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2022/05/sunday-assorted-links-364.html)
 

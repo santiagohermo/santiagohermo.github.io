@@ -8,8 +8,8 @@ Welcome!
 I am a PhD candidate in Economics at Brown University.
 
 My research interests are in Labor and Urban Economics.
-I apply advanced empirical methods to study how local labor market institutions spill over across local labor and housing markets.
-I am also interested in understanding the drivers of skill investment.
+I apply advanced empirical methods to study the consequences of networks across local markets, such as those created by sectoral bargaining agreements or commuting.
+I am also work on studying the drivers of skill investment.
 
 You can see my CV [here](https://santiagohermo.github.io/curriculum/).
 

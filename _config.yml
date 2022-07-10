@@ -77,7 +77,9 @@ author:
   name     : "Santiago Hermo"
   avatar   : "images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   location : "Providence (RI)"
-  bio      : Economics PhD candidate at Brown University || UCEMA '17 UBA '15
+  bio      : 
+    Economics PhD candidate,
+    Brown University
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

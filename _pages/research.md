@@ -1,9 +1,7 @@
 ---
 title: Research
 permalink: /research/
-author_profile: FALSE
-classes: wide
-layout: single
+author_profile: TRUE
 ---
 
 ## Working papers

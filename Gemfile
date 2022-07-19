@@ -17,3 +17,5 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem "rouge", git: 'https://github.com/reifjulian/rouge', branch: 'stata'
 end
+
+gem "webrick", "~> 1.7"

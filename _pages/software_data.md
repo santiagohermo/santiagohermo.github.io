@@ -1,6 +1,7 @@
 ---
 title: Software and Data
 permalink: /software_data/
+title: off
 ---
 
 ## Main contributor

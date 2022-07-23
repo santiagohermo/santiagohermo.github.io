@@ -3,5 +3,4 @@ title:
 permalink: /curriculum/
 ---
 
-<embed src="https://santiagohermo.github.io/assets/cv/cv.pdf" type="application/pdf" />
-
+<embed src="{{ site.url }}{{ site.baseurl }}/assets/cv/cv.pdf" type="application/pdf" height="220"/>

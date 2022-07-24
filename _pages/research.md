@@ -14,7 +14,7 @@ title: off
 **Minimum wage as a place-based policy: Evidence from US housing rental markets**
 (joint with Gabriele Borg and Diego Gentile Passaro)
 
-Paper: [[Draft]({{ site.url }}{{ site.baseurl }}/assets/papers/min_wage_rent/min_wage_rent.pdf)]
+Paper: [[Draft]({{ site.url }}{{ site.baseurl }}/assets/papers/min_wage_rent/min_wage_rent.pdf)], [[SocArxiv](https://osf.io/preprints/socarxiv/zj2sm/)]
 
 <!-- How to open in a new tab
 [<a href="{{ site.url }}{{ site.baseurl }}/assets/papers/min_wage_rent/min_wage_rent.pdf" target="_blank">Draft</a>] -->
@@ -49,7 +49,7 @@ Paper: [[Draft]({{ site.url }}{{ site.baseurl }}/assets/papers/min_wage_rent/min
 
 [<figure style="width: 250px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/papers/Skills/decomp_logic.png" alt="">
-</figure> ]({{ site.url }}{{ site.baseurl }}/assets/papers/Skills/decomp_logic.png)
+</figure>]({{ site.url }}{{ site.baseurl }}/assets/papers/Skills/decomp_logic.png)
 
 **Labor market returns and the evolution of cognitive skills: Theory and evidence**
 (joint with Miika Päällysaho, David Seim, and Jesse M. Shapiro) <br>

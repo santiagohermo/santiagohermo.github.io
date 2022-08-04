@@ -14,7 +14,7 @@ title: off
 **Minimum wage as a place-based policy: Evidence from US housing rental markets**
 (joint with Gabriele Borg and Diego Gentile Passaro)
 
-Paper: [[Draft]({{ site.url }}{{ site.baseurl }}/assets/papers/min_wage_rent/min_wage_rent.pdf)], [[SocArxiv](https://osf.io/preprints/socarxiv/zj2sm/)]
+Paper: [[Draft]({{ site.url }}{{ site.baseurl }}/assets/papers/min_wage_rent/min_wage_rent.pdf)], [[arxiv](https://arxiv.org/abs/2208.01791)], [[SocArxiv](https://osf.io/preprints/socarxiv/zj2sm/)]
 
 <!-- How to open in a new tab
 [<a href="{{ site.url }}{{ site.baseurl }}/assets/papers/min_wage_rent/min_wage_rent.pdf" target="_blank">Draft</a>] -->

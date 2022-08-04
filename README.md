@@ -3,10 +3,6 @@
 
 Personal website, following [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
 
-### Development
-
-I use Ruby to test changes before posting in the website. 
-
 #### Prerequisites 
 
 - For windows, install following [this](https://rubyinstaller.org/).
@@ -19,12 +15,13 @@ I use Ruby to test changes before posting in the website.
     - Run `bundle add webrick`
     - (useful link [here](https://github.com/jekyll/jekyll/issues/8523))
 
-#### Workflow
+#### Development
+
+I use Ruby to test changes before posting on the website. 
 
 - Make changes in the local repository
 - Open command line, navigate to website folder and open server with `bundle exec jekyll serve`
 - Go to the local server (it should appear in the cmd window) and check out the changes
-
 
 ### Acknowledgments
 

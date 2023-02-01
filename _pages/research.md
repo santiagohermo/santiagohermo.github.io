@@ -53,7 +53,7 @@ Paper: [[Draft]({{ site.url }}{{ site.baseurl }}/assets/papers/min_wage_rent/min
 
 **Labor market returns and the evolution of cognitive skills: Theory and evidence**
 (joint with Miika Päällysaho, David Seim, and Jesse M. Shapiro) <br>
-*Quarterly Journal of Economics, forthcoming.*
+*Quarterly Journal of Economics, 2022.*
 
 Paper: [[DOI](https://doi.org/10.1093/qje/qjac022)], [[WP](https://scholar.harvard.edu/files/shapiro/files/skills.pdf)] <br>
 Data: [[Harvard Dataverse](https://doi.org/10.7910/DVN/KP9RZX)] <br>

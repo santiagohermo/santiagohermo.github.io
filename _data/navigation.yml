@@ -1,9 +1,0 @@
-main:
-  - title: "Home"
-    url: /
-  - title: "CV"
-    url: /curriculum/
-  - title: "Research"
-    url: /research/
-  - title: "Software and Data"
-    url: /software_data/

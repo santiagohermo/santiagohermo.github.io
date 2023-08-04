@@ -5,7 +5,7 @@ Personal website, following [Minimal Mistakes](https://mmistakes.github.io/minim
 
 #### Prerequisites 
 
-- For windows, install following [this](https://rubyinstaller.org/).
+- For windows, install [this](https://rubyinstaller.org/).
     - Make sure to have no spaces in the installation path
 - Move to website local folder in Admin-mode command line and install Jekyll
     - `gem install jekyll bundler`

@@ -3,7 +3,7 @@
 <!-- _layouts/bib.html -->
       <div class="row">
         <!-- Entry bib key -->
-        <div id="{{entry.key}}" class="col-sm-10">
+        <div id="{{entry.key}}" class="col-sm-11">
         <!-- Title -->
         <div class="title">{{entry.title}}</div>
         <!-- Author -->
@@ -112,7 +112,11 @@
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
-            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+          {%- endif %}
+          <!-- DO NOT use description and abstract at the same time -->
+          {%- if entry.descr %}
+            <a class="abstract btn btn-sm z-depth-0" role="button">Description</a>
           {%- endif %}
           {%- if entry.arxiv %}
             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
@@ -202,11 +206,21 @@
           </div>
           {%- endif -%}
 
+          {% if entry.descr -%}
+          <!-- Hidden description block -->
+          <div class="abstract hidden">
+            <p>{{ entry.descr }}</p>
+          </div>
+          {%- endif -%}
+
           {% if entry.bibtex_show -%}
           <!-- Hidden bibtex block -->
           <div class="bibtex hidden">
             {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
           </div>
           {%- endif %}
+        </div>
+        <div class="col-sm-1 entry-year">
+          {{ entry.year }}
         </div>
       </div>

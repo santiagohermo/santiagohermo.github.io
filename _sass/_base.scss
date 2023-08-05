@@ -716,6 +716,7 @@ footer.sticky-bottom {
 
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
+        font-size: 15px;  /* You can adjust this value to suit your needs */
       }
     }
   }
@@ -1033,4 +1034,10 @@ nav[data-toggle="toc"] {
     margin-bottom: 0;
     padding-top: 0.5rem;
   }
+}
+
+.entry-year {
+  color: $grey-color-light;
+  text-align: right;  /* To align the text to the right of the div */
+  font-size: 20px;  /* You can adjust this value to suit your needs */
 }

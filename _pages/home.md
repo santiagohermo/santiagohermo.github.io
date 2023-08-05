@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Economics PhD Candidate, Brown University
+subtitle: 
 
 profile:
   align: right
@@ -27,6 +27,6 @@ networks across local markets, such as those created by sectoral bargaining
 agreements or commuting, for the diffusion of economic shocks across the economy. 
 I also work on studying the drivers of skill investment.
 
-You can see my CV here.
+You can see my CV [here](cv).
 
 Feel free to reach out via email to santiago_hermo@brown.edu.

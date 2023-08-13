@@ -1041,3 +1041,9 @@ nav[data-toggle="toc"] {
   text-align: right;  /* To align the text to the right of the div */
   font-size: 20px;  /* You can adjust this value to suit your needs */
 }
+
+@media (max-width: 767px) {
+  .entry-year {
+    display: none !important;
+  }
+}

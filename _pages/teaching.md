@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description: A list of courses detailing my teaching experience.
 nav: true
 navorder: 5
 ---
@@ -37,7 +37,8 @@ navorder: 5
   - 2 week course covering an introduction to Game Theory and Behavioral Economics.<br><br>
 
 - April 2021. _Applied Econometrics with R_. Universidad del CEMA.
-  - 9 classes covering econometrics tools for applied research and their implementation in R.<br><br>
+  - 9 classes covering econometrics tools for applied research and their implementation in R.
+  Syllabus available [here](../assets/pdf/syllabus_ucema_short_course.pdf).<br><br>
 
 - Summer 2020. _Behavioral Game Theory, online_. [Pre-college programs at Brown](https://precollege.brown.edu/programs/summerbrown).
   - 2 week course covering an introduction to Game Theory and Behavioral Economics.<br><br>

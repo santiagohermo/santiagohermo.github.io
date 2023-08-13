@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: A list of courses detailing my teaching experience.
 nav: true
-navorder: 5
+nav_order: 4
 ---
 
 ### Graduate Teaching Assistant

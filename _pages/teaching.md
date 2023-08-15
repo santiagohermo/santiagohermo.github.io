@@ -47,4 +47,4 @@ nav_order: 4
   - 2 week course covering an introduction to Game Theory and Behavioral Economics.<br><br>
 
 - 2015-2017. _Methodology of the Social Sciences_. Universidad de Buenos Aires.
-  - First-year undergraduate course covering an introduction to the scientific method, with an emphasis on rconomics.<br><br>
+  - First-year undergraduate course covering an introduction to the scientific method, with an emphasis on Economics.<br><br>

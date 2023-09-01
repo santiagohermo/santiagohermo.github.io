@@ -33,17 +33,17 @@ nav_order: 4
 - December 2022. _Applied Econometrics with R_. Ministerio de Trabajo, Argentina.
   - 4 classes covering econometrics tools for applied research and their implementation in R.<br><br>
 
-- Summer 2022. _Behavioral Game Theory_. [Pre-college programs at Brown](https://precollege.brown.edu/programs/summerbrown).
+- Summer 2022. _Behavioral Game Theory_. Pre-college programs at Brown University.
   - 2 week course covering an introduction to Game Theory and Behavioral Economics.<br><br>
 
 - April 2021. _Applied Econometrics with R_. Universidad del CEMA.
   - 9 classes covering econometrics tools for applied research and their implementation in R.
   Syllabus available [here](../assets/pdf/syllabus_ucema_short_course.pdf).<br><br>
 
-- Summer 2020. _Behavioral Game Theory, online_. [Pre-college programs at Brown](https://precollege.brown.edu/programs/summerbrown).
-  - 2 week course covering an introduction to Game Theory and Behavioral Economics.<br><br>
+- Summer 2020. _Behavioral Game Theory, online_. Pre-college programs at Brown University.
+  - 4 week course covering an introduction to Game Theory and Behavioral Economics.<br><br>
 
-- Summer 2019. _Behavioral Game Theory_. [Pre-college programs at Brown](https://precollege.brown.edu/programs/summerbrown).
+- Summer 2019. _Behavioral Game Theory_. Pre-college programs at Brown University.
   - 2 week course covering an introduction to Game Theory and Behavioral Economics.<br><br>
 
 - 2015-2017. _Methodology of the Social Sciences_. Universidad de Buenos Aires.

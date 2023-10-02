@@ -19,10 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am a PhD candidate in Economics at [Brown University](https://economics.brown.edu/).
+Welcome! 
+I am a PhD candidate in Economics at [Brown University](https://economics.brown.edu/).
 
 My research interests are in Labor and Urban Economics.
-Specifically, I study how institutional constraints affect outcomes in labor and 
+Specifically, I study how spatial linkages affect outcomes in labor and 
 housing markets.
 I am also interested in studying the drivers of skill investment.
 

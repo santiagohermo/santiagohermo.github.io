@@ -22,12 +22,13 @@ social: true  # includes social icons at the bottom of the page
 Welcome! 
 I am a PhD candidate in Economics at [Brown University](https://economics.brown.edu/).
 
+**I am on the job market for the academic year 2023-2024.** <br>
+You can find my CV [here](cv).
+
 My research interests are in Labor and Urban Economics.
 Specifically, I study how spatial linkages affect outcomes in labor and 
 housing markets.
 I am also interested in studying the drivers of skill investment.
 
-You can see my CV [here](cv).
-
-Contact at santiago_hermo@brown.edu
+Feel free to contact me at [santiago_hermo@brown.edu](mailto:santiago_hermo@brown.edu).
 

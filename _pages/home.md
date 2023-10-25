@@ -30,5 +30,9 @@ Specifically, I study how spatial linkages affect outcomes in labor and
 housing markets.
 I am also interested in studying the drivers of skill investment.
 
+In my Job Market Paper I study the consequences of links between firms created 
+by collective bargaining institutions for the propagation of economic shocks 
+in the labor market.
+
 Feel free to contact me at [santiago_hermo@brown.edu](mailto:santiago_hermo@brown.edu).
 

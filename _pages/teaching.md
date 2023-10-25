@@ -34,15 +34,19 @@ nav_order: 4
 
 #### Universidad del CEMA
 
-- Spring 2018. _Mathematical Economics_. Professor Manuel Calderón.
+- Spring 2018. _Economía Matemática_ (Mathematical Economics). Professor Manuel Calderón.
   - Graduate course covering mathematical tools for economic analysis.
   <br><br>
 
-- Fall 2017. _Political Analysis 2_. Professor Jorge Streb.
-  - Graduate course for political science developing Game Theory tools.
+- Fall 2017. _Análisis Político 2_ (Political Analysis 2). Professor Jorge Streb.
+  - Undergraduate course for political science developing Game Theory tools.
   <br><br>
 
-## Lecturer
+- Spring 2017. _Análisis Matemático_ (Mathematical Analysis). Professor Manuel Calderón.
+  - Undergraduate course introducing mathematical tool for economics.
+  <br><br>
+
+### Lecturer
 
 - December 2022. _Applied Econometrics with R_. Ministerio de Trabajo, Argentina.
   - 4 classes covering econometrics tools for applied research and their implementation in R.
@@ -69,3 +73,8 @@ nav_order: 4
 - 2015-2017. _Methodology of the Social Sciences_. Universidad de Buenos Aires.
   - First-year undergraduate course covering an introduction to the scientific method, with an emphasis on Economics.
   <br><br>
+
+### Undergraduate Teaching Assistant, Universidad de Buenos Aires
+
+Between 2014 and 2016, I was a TA for several courses in the Economics Bachelor,
+including Microeconomics II, Epistemology of Economics, and Econometrics.

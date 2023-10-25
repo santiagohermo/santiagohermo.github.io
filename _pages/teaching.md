@@ -7,9 +7,9 @@ nav: true
 nav_order: 4
 ---
 
-### Graduate Teaching Assistant
+### <span style="color: var(--custom-text-color);">Graduate Teaching Assistant</span>
 
-#### Brown University
+##### _Brown University_
 
 - Fall 2023. _Applied Research Methods for Economists_ (ECON 1629). Professor Lorenzo Lagos.
   - Undergraduate course covering tools for applied research in Economics.
@@ -32,7 +32,7 @@ nav_order: 4
     - _"Very fun and engaging."_
     - _"He was very knowledgable and he guided students to the solutions well"_
 
-#### Universidad del CEMA
+##### _Universidad del CEMA_
 
 - Spring 2018. _Economía Matemática_ (Mathematical Economics). Professor Manuel Calderón.
   - Graduate course covering mathematical tools for economic analysis.
@@ -46,7 +46,7 @@ nav_order: 4
   - Undergraduate course introducing mathematical tool for economics.
   <br><br>
 
-### Lecturer
+### <span style="color: var(--custom-text-color);">Lecturer</span>
 
 - December 2022. _Applied Econometrics with R_. Ministerio de Trabajo, Argentina.
   - 4 classes covering econometrics tools for applied research and their implementation in R.
@@ -70,11 +70,19 @@ nav_order: 4
   - 2 week course covering an introduction to Game Theory and Behavioral Economics.
   <br><br>
 
-- 2015-2017. _Methodology of the Social Sciences_. Universidad de Buenos Aires.
+- 2015-2017. _Metodología de las Ciencias Sociales_ (Methodology of the Social Sciences). Universidad de Buenos Aires.
   - First-year undergraduate course covering an introduction to the scientific method, with an emphasis on Economics.
+  - Development of teaching materials alongside full professor Diego Weisman.
   <br><br>
 
-### Undergraduate Teaching Assistant, Universidad de Buenos Aires
+### <span style="color: var(--custom-text-color);">Other experience</span>
 
-Between 2014 and 2016, I was a TA for several courses in the Economics Bachelor,
-including Microeconomics II, Epistemology of Economics, and Econometrics.
+##### _Lecturer, Universidad de Lomas de Zamora_
+
+Between 2016 and 2017 I was a lecturer for a first-year course on the Methodology of the Social Sciences, and 
+a second-year course on Microeconomics.
+
+##### _Undergraduate TA, Universidad de Buenos Aires_
+
+Between 2014 and 2016, I was a Teaching Assistant for several courses in the Economics Bachelor,
+including Microeconomics 2, Econometrics, and Epistemology of Economics.

@@ -30,6 +30,8 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
+  --custom-text-color: #{$orange-color};
+
   .fa-sun {
     display : none;
   }
@@ -74,6 +76,8 @@ html[data-theme='dark'] {
   --global-danger-block-bg: #ffe0e0;
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
+
+  --custom-text-color: #{$cyan-color};
 
   .fa-sun {
     padding-left: 10px;

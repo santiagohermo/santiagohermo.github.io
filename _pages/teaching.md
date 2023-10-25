@@ -29,7 +29,7 @@ nav_order: 4
   - Teaching evaluations available [here](../assets/pdf/evaluations_interm_micro_fall2019.pdf). Selected students' feedback:
     - _"He always explains the bigger picture and IS SO KNOWLEDGEABLE. Very responsive to emails."_
     - _"Very good at explaining concepts, will draw diagrams out for you and everything."_
-    - _"Very fun and engaging."
+    - _"Very fun and engaging."_
     - _"He was very knowledgable and he guided students to the solutions well"_
 
 #### Universidad del CEMA

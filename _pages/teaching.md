@@ -79,7 +79,7 @@ nav_order: 4
 
 ##### _Lecturer, Universidad de Lomas de Zamora_
 
-Between 2016 and 2017 I was a lecturer for a first-year course on the Methodology of the Social Sciences, and 
+Between 2016 and 2017, I was a lecturer for a first-year course on the Methodology of the Social Sciences, and 
 a second-year course on Microeconomics.
 
 ##### _Undergraduate TA, Universidad de Buenos Aires_

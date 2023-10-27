@@ -59,7 +59,6 @@ nav_order: 4
 - April 2021. _Applied Econometrics with R_. Universidad del CEMA, MAE program.
   - 9 classes covering econometrics tools for applied research and their implementation in R.
   - Syllabus available [here](../assets/pdf/syllabus_ucema_short_course.pdf).
-  Feedback from Julio Elias, director of program, [here](../assets/pdf/teaching_MAE_ucema.pdf).
   <br><br>
 
 - Summer 2020. _Behavioral Game Theory, online_. Pre-college programs at Brown University.

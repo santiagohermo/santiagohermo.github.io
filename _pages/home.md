@@ -23,16 +23,25 @@ Welcome!
 I am a PhD candidate in Economics at [Brown University](https://economics.brown.edu/).
 
 **I am on the job market for the academic year 2023-2024.** <br>
-You can find my CV [here](cv).
+You can find my CV 
+<a href="assets/pdf/cv.pdf" target="_blank">here</a>.
 
 My research interests are in Labor and Urban Economics.
-Specifically, I study how spatial linkages affect outcomes in labor and 
-housing markets.
+I focus on how spatial linkages affect outcomes in labor and housing markets.
 I am also interested in studying the drivers of skill investment.
 
-In my Job Market Paper I study the consequences of links between firms created 
-by collective bargaining institutions for the propagation of economic shocks 
-in the labor market.
+In my 
+<a href="assets/pdf/Hermo_JMP_CollectiveBargaining.pdf" target="_blank">Job Market Paper</a>
+I study the role played by collective bargaining institutions 
+in shaping the response of wages and employment to 
+economic shocks.
+Using data from Argentina, 
+I find that wages in a firm respond to shocks to other firms 
+in the same bargaining unit, and that this response is 
+driven by updates in common wage floors.
+I develop a spatial economic model with collective 
+bargaining to study how the structure of collective 
+bargaining units affects the propagation of shocks 
+across firms.
 
 Feel free to contact me at [santiago_hermo@brown.edu](mailto:santiago_hermo@brown.edu).
-

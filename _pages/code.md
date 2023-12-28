@@ -17,9 +17,13 @@ nav_order: 3
     </thead>
     <tbody>
         <tr>
+            <td>data.tools</td>
+            <td>Convenience functions for data manipulation.<br><a href="https://github.com/santiagohermo/data.tools">github</a></td>
+            <td rowspan="3"><b>Main Contributor</b></td>
+        </tr>
+        <tr>
             <td>LaroplanOCR</td>
             <td>Swedish primary school curricula (Läroplaner för grundskolan) in digital format.<br><a href="https://github.com/JMSLab/LaroplanOCR">github</a>, <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EEPBEU">Harvard Dataverse</a></td>
-            <td rowspan="2"><b>Main Contributor</b></td>
         </tr>
         <tr>
             <td>eventstudyr</td>

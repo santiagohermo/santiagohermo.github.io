@@ -17,20 +17,11 @@ nav_order: 4
 
 - Spring 2020. _Industrial Organization_ (ECON 1460). Professor Grigorios Siourounis.
   - Undergraduate course covering theoretical and empirical topics in Industrial Organization.
-  - Teaching evaluations available [here](../assets/pdf/evaluations_IO_spring2020.pdf). Selected students' feedback:
-    - _"Santiago was so responsive and patient over email and especially as we transitioned to online learning and helped out with review sessions."_
-    - _"He was always really prepared and gave detailed answers to questions, even over e-mail! After we went remote, I relied on the e-mail help a lot, and he was always a great resource."_
-    - _"He was helpful in distilling course material and highlighting key concepts and strategies for applying the material."_
-    - _"well-prepared and very responsive to questions"_
-    <br><br>
+  <br><br>
 
 - Fall 2019. _Intermediate Microeconomics_ (ECON 1100). Professor Pedro dal Bo.
   - Undergraduate course covering theory of consumer demand, theories of the firm, market behavior, welfare economics, and general equilibrium.
-  - Teaching evaluations available [here](../assets/pdf/evaluations_interm_micro_fall2019.pdf). Selected students' feedback:
-    - _"He always explains the bigger picture and IS SO KNOWLEDGEABLE. Very responsive to emails."_
-    - _"Very good at explaining concepts, will draw diagrams out for you and everything."_
-    - _"Very fun and engaging."_
-    - _"He was very knowledgable and he guided students to the solutions well"_
+  <br><br>
 
 ##### _Universidad del CEMA_
 
@@ -47,10 +38,6 @@ nav_order: 4
   <br><br>
 
 ### <span style="color: var(--custom-text-color);">Lecturer</span>
-
-- December 2022. _Applied Econometrics with R_. Ministerio de Trabajo, Argentina.
-  - 4 classes covering econometrics tools for applied research and their implementation in R.
-  <br><br>
 
 - Summer 2022. _Behavioral Game Theory_. Pre-college programs at Brown University.
   - 2 week course covering an introduction to Game Theory and Behavioral Economics.

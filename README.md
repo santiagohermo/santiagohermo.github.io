@@ -25,7 +25,7 @@ I use Ruby to test changes before posting on the website.
     ```
     bundle exec jekyll serve
     ```
-- Go to the local server (it should appear in the cmd window) and check out the changes
+- Go to the local server (link should appear in the cmd window) and check the changes locally
 
 ### Acknowledgments
 
@@ -34,7 +34,7 @@ This version of the website uses `al-folio`. I've found their starting guide and
 - https://github.com/alshedivat/al-folio/issues
 - https://github.com/alshedivat/al-folio#getting-started
 
-I implemented several customizations to the theme using GPT-4.
+I implemented some customizations to the theme with the help of GPT-4.
 
 The previous version of this website used `minimal mistakes`, which I learned from:
 

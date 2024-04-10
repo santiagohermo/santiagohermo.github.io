@@ -19,15 +19,20 @@ nav_order: 3
         <tr>
             <td>data.tools</td>
             <td>Convenience functions for data manipulation.<br><a href="https://github.com/santiagohermo/data.tools">github</a></td>
-            <td rowspan="3"><b>Main Contributor</b></td>
+            <td rowspan="2"><b>Creator</b></td>
         </tr>
         <tr>
-            <td>LaroplanOCR</td>
-            <td>Swedish primary school curricula (Läroplaner för grundskolan) in digital format.<br><a href="https://github.com/JMSLab/LaroplanOCR">github</a>, <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EEPBEU">Harvard Dataverse</a></td>
+            <td>dissertation_template</td>
+            <td>Minimalistic template for a PhD dissertation.<br><a href="https://github.com/santiagohermo/dissertation_template">github</a></td>
         </tr>
         <tr>
             <td>eventstudyr</td>
             <td>Tools for estimating linear panel event study models, following the recommendations in <a href="https://www.nber.org/papers/w29170">Freyaldenhoven et al. (2021)</a>.<br><a href="https://github.com/JMSLab/eventstudyr">github</a></td>
+            <td rowspan="2"><b>Main Contributor</b></td>
+        </tr>
+        <tr>
+            <td>LaroplanOCR</td>
+            <td>Swedish primary school curricula in digital format.<br><a href="https://github.com/JMSLab/LaroplanOCR">github</a>, <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EEPBEU">Harvard Dataverse</a></td>
         </tr>
         <tr>
             <td>Template</td>

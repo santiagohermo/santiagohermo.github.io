@@ -28,7 +28,7 @@ My research interests are in Labor and Urban Economics.
 I focus on how spatial linkages affect outcomes in labor and housing markets.
 I am also interested in studying the drivers of skill investment.
 
-Postdoctoral researcher at [University of Oslo](https://www.sv.uio.no/econ/english/)
+I am a postdoctoral researcher at [University of Oslo](https://www.sv.uio.no/econ/english/)
 for the academic year 2024/25.
 In September 2025 I will join [Monash University](https://www.monash.edu/business/economics) as 
 an assistant professor (lecturer).

@@ -31,4 +31,4 @@ My research interests are in Labor and Urban Economics.
 I focus on how spatial linkages affect outcomes in labor and housing markets.
 I am also interested in studying the drivers of skill investment.
 
-Feel free to contact me at [santiagohermo@gmail.com](mailto:santiago_hermo@gmail.com).
+Feel free to contact me at [santiago.hermo@monash.edu](mailto:santiago.hermo@monash.edu).

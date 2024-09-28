@@ -24,11 +24,14 @@ I am a postdoctoral researcher at [University of Oslo](https://www.sv.uio.no/eco
 for the academic year 2024/25.
 In September 2025 I will join [Monash University](https://www.monash.edu/business/economics) as 
 an assistant professor (lecturer).
-You can find my CV 
-<a href="assets/pdf/cv.pdf" target="_blank">here</a>.
 
 My research interests are in Labor and Urban Economics.
-I focus on how spatial linkages affect outcomes in labor and housing markets.
+I study how institutions, such as collective bargaining and minimum wage policies, 
+affect outcomes in labor and housing markets.
 I am also interested in studying the drivers of skill investment.
+
+I received my PhD in Economics from [Brown University](https://economics.brown.edu/) in 2024.
+You can find my CV 
+<a href="assets/pdf/cv.pdf" target="_blank">here</a>.
 
 Feel free to contact me at [santiago.hermo@monash.edu](mailto:santiago.hermo@monash.edu).

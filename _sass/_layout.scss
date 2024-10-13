@@ -40,8 +40,27 @@ body.sticky-bottom-footer {
  * Publications
  ******************************************************************************/
 
-// TODO: redefine publications layout.
+ .title {
+    margin-bottom: 0.1em;
+  }
+  
+  .author {
+    margin-bottom: 0.1em;
+  }
+  
+  .periodical {
+    margin-bottom: 0.1em;
+  }
+  
+  .periodical .note {
+    display: inline-block;
+    margin-top: 0.1em;
+  }
 
+  .periodical .note2 {
+    display: inline-block;
+    margin-top: 0.1em;
+  }
 
 /*****************************************************************************
 * Projects

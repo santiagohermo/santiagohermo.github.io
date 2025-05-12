@@ -32,7 +32,7 @@ I am also interested in studying the drivers of skill investment.
 
 I received my PhD in Economics from [Brown University](https://economics.brown.edu/) in 2024.
 You can find my CV 
-<a href="assets/pdf/cv.pdf" target="_blank">here</a>.
+<a href="assets/pdf/cv_santiago_hermo.pdf" target="_blank">here</a>.
 
 If you would like to get in touch, please email me at
 [santiago.hermo@monash.edu](mailto:santiago.hermo@monash.edu).

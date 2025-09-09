@@ -29,7 +29,7 @@ I use Ruby to test changes before posting on the website.
 
 ### Acknowledgments
 
-This version of the website uses `al-folio`. I've found their starting guide and some issues very useful to customize the website:
+The current version of the website uses `al-folio`. I've found their starting guide and some issues very useful to customize the website:
 
 - https://github.com/alshedivat/al-folio/issues
 - https://github.com/alshedivat/al-folio#getting-started

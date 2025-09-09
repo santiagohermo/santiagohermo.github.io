@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome! 
 I am a lecturer (assistant professor) at 
-[Monash University](https://www.monash.edu/business/economics), based in Melbourne, Australia.
+[Monash University](https://www.monash.edu/business/economics).
 
 My research interests are in Labor and Urban Economics.
 I study how institutions, such as collective bargaining and minimum wage policies, 

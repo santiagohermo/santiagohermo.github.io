@@ -24,7 +24,7 @@ I am a lecturer (assistant professor) at
 [Monash University](https://www.monash.edu/business/economics).
 
 My research interests are in Labor and Urban Economics.
-I study how institutions, such as collective bargaining and minimum wage policies, 
+I study how labor market institutions, such as collective bargaining and minimum wage policies, 
 affect outcomes in labor and housing markets.
 I am also interested in studying the drivers of skill investment.
 

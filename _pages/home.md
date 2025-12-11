@@ -21,7 +21,8 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome! 
 I am a lecturer (assistant professor) at 
-[Monash University](https://www.monash.edu/business/economics).
+[Monash University](https://www.monash.edu/business/economics) and 
+a Research Affiliate at [RFBerlin](https://www.rfberlin.com/author/santiagohermo).
 
 My research interests are in Labor and Urban Economics.
 I study how labor market institutions, such as collective bargaining and minimum wage policies, 

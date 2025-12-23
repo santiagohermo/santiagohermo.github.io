@@ -260,8 +260,9 @@ badges: # Display different badges for your publications
   dimensions_badge: false # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, group, descr,
-                           supp, blog, code, poster, slides, website, preview, altmetric, nber, voxeu]
+filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, pdf, html, ssrn, 
+                           nber, voxeu, selected, group, descr, supp, note, note2,
+                           code, poster, slides, website, preview, status]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 5  # leave blank to always show all authors

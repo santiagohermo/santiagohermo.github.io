@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Welcome! 
-I am a lecturer (assistant professor) at 
+I am a Lecturer (Assistant Professor) at 
 [Monash University](https://www.monash.edu/business/economics) and 
 a Research Affiliate at [RFBerlin](https://www.rfberlin.com/author/santiagohermo).
 

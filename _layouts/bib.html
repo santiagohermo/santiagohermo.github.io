@@ -1,12 +1,8 @@
 ---
 ---
-<!-- _layouts/bib.html -->
-      <div class="row">
-        <!-- Entry bib key -->
-        <div id="{{entry.key}}" class="col-sm-11">
-        <!-- Title -->
+<div class="row">
+        <div id="{{entry.key}}" class="col-sm-12">
         <div class="title">{{entry.title}}</div>
-        <!-- Author -->
         <div class="author">
         {% assign author_array_size = entry.author_array | size %}
 
@@ -82,11 +78,10 @@
 
         </div>
 
-        <!-- Journal/Book title and date -->
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
         {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
         {% if entry.status -%}
-          {%- capture entrytype -%}<em>{{entry.status}}</em>{%- endcapture -%}
+          {%- capture entrytype -%}<em class="bib-status">{{entry.status}}</em>{%- endcapture -%}
         {%- elsif entry.type == "article" -%}
           {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
         {%- elsif proceedings contains entry.type -%}
@@ -96,21 +91,39 @@
         {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
+        
         {%- if entry.month -%}
-          {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
+          {%- capture entrymonth -%}
+            {{ " " }}
+            {%- if entry.month == "12" or entry.month == "dec" -%}December
+            {%- elsif entry.month == "11" or entry.month == "nov" -%}November
+            {%- elsif entry.month == "10" or entry.month == "oct" -%}October
+            {%- elsif entry.month == "9" or entry.month == "sep" -%}September
+            {%- elsif entry.month == "8" or entry.month == "aug" -%}August
+            {%- elsif entry.month == "7" or entry.month == "jul" -%}July
+            {%- elsif entry.month == "6" or entry.month == "jun" -%}June
+            {%- elsif entry.month == "5" or entry.month == "may" -%}May
+            {%- elsif entry.month == "4" or entry.month == "apr" -%}April
+            {%- elsif entry.month == "3" or entry.month == "mar" -%}March
+            {%- elsif entry.month == "2" or entry.month == "feb" -%}February
+            {%- elsif entry.month == "1" or entry.month == "jan" -%}January
+            {%- else -%}{{ entry.month | capitalize }}
+            {%- endif -%}
+          {%- endcapture -%}
         {%- endif -%}
+
         {%- if entry.year -%}
           {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
+        
         <div class="periodical">
             {{ periodical | strip }}
-            {% if entry.note %}<br>{{ entry.note }}{% endif %}
-            {% if entry.note2 %}<br>{{ entry.note2 }}{% endif %}
+            {% if entry.note %}<br><span style="font-size: 0.95em; opacity: 0.85;">{{ entry.note }}</span>{% endif %}
+            {% if entry.note2 %}<br><span style="font-size: 0.95em; opacity: 0.85;">{{ entry.note2 }}</span>{% endif %}
         </div>
         
-          <!-- Links/Buttons -->
           <div class="links">
             {%- if entry.abstract %}
                 <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
@@ -154,39 +167,12 @@
             {%- if entry.bibtex_show %}
                 <a class="bibtex btn btn-sm z-depth-0" role="button">BIB ENTRY</a>
             {%- endif %}
-
-            {%- if entry.supp %}
-                {% if entry.supp contains '://' -%}
-                <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
-                {%- else -%}
-                <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
-                {%- endif %}
-            {%- endif %}
-            {%- if entry.blog %}
-                <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
-            {%- endif %}
-            {%- if entry.code %}
-                <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
-            {%- endif %}
-            {%- if entry.poster %}
-                {% if entry.poster contains '://' -%}
-                <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
-                {%- else -%}
-                <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
-                {%- endif %}
-            {%- endif %}
-            {%- if entry.slides %}
-                {% if entry.slides contains '://' -%}
-                <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
-                {%- else -%}
-                <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
-                {%- endif %}
-            {%- endif %}
             </div>
+
           {% if site.badges %}
           <div class="badges">
             {%- if site.badges.altmetric_badge %}
-            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-badge-type="2" data-badge-popover="right"
               {% if entry.eprint %}
                 data-arxiv-id="{{ entry.eprint }}"
               {% elsif entry.doi %}
@@ -215,27 +201,21 @@
           {%- endif %}
 
           {% if entry.abstract -%}
-          <!-- Hidden abstract block -->
           <div class="abstract hidden">
             <p>{{ entry.abstract }}</p>
           </div>
           {%- endif -%}
 
           {% if entry.descr -%}
-          <!-- Hidden description block -->
           <div class="abstract hidden">
             <p>{{ entry.descr }}</p>
           </div>
           {%- endif -%}
 
           {% if entry.bibtex_show -%}
-          <!-- Hidden bibtex block -->
           <div class="bibtex hidden">
             {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
           </div>
           {%- endif %}
         </div>
-        <div class="col-md-1 entry-year">
-          {{ entry.year }}
         </div>
-      </div>

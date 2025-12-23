@@ -163,6 +163,13 @@ blockquote {
   }
 }
 
+.bib-status {
+  color: var(--global-status-color);
+  font-weight: 550;
+  font-style: italic;
+  letter-spacing: 0.4px;
+  text-transform: none;
+}
 
 // Navbar customization
 

@@ -29,6 +29,7 @@
   --global-danger-block-bg: #ffe0e0;
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
+  --global-status-color: #{$orange-color}; // Professional red
 
   --custom-text-color: #{$orange-color};
 
@@ -76,6 +77,7 @@ html[data-theme='dark'] {
   --global-danger-block-bg: #ffe0e0;
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
+  --global-status-color: #{$cyan-color}; // Lighter coral for contrast
 
   --custom-text-color: #{$cyan-color};
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Seminar at Universidad de Buenos Aires, Instituto Interdisciplinario de Economía Política (IIEP-UBA), on July 8.
+Seminar at Universidad de Buenos Aires, Instituto Interdisciplinario de Economía Política.

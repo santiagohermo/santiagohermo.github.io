@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Seminar at Universidad Torcuato Di Tella, Departamento de Economía, on June 24.
+Seminar at Universidad Torcuato Di Tella, Departamento de Economía.
